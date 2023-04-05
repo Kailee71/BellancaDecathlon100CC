@@ -1,7 +1,7 @@
 # BellancaDecathlon100CC
 Data To Mill and Build a 3.26m Wingspan Bellanca Decathlon.
 
-Hopefully over time a _lot_ more information will appear here.
+![Bellanca Decathlon 100cc Screenshot](doc/imgs/Screenshot_230405.png)
 
 This project was started based on Albert's downloadable data for the Bellanca Decathlon 100cc, and then over time every single part was re-drawn, re-constructed, and re-assembled. This initially took place in Fusion360, but after having done the majority of parts it became clear that a model with this many pieces was not so easily managed in Fusion360. The model tree became to big and cumbersome to use, and scrolling through it simply wasn't any fun any longer. The decision was then made to remodel the whole assembly, again, in Catia, work extensively. Now, no such restrictions were present anymore.
 
