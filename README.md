@@ -1,4 +1,4 @@
-# BellancaDecathlon100CC
+## BellancaDecathlon100CC
 Data To Mill and Build a 3.26m Wingspan Bellanca Decathlon.
 
 ![Bellanca Decathlon 100cc Screenshot](doc/imgs/Screenshot_230405.png)
