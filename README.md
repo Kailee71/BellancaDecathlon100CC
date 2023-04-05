@@ -15,7 +15,7 @@ It is in German. If this is an issue, feel free to use Google to translate.
 
 I have started a new thread on the same server to cover issues related to this data here:
 
-[Fräsdaten Bellanca Decathlon 100cc](https://www.rc-network.de/threads/XXXXX)
+[Fräsdaten Bellanca Decathlon 100cc](https://www.rc-network.de/threads/fr%C3%A4sdaten-bellanca-super-decathlon.11947862/)
 
 If you intend to build this plane, this should probably be your starting point. Again, it is in German, but I will be more than happy to answer questions in english there also, as I'm sure most of the contributor in the thread will. I do ask that if you do intend to build a plane from this data, if possible also give feedback, either to me directly or better yet into the second thread listed. Let's keep this thing improving - for which I need feedback and suggestions to do stuff. I'm open to almost anything, I'll be happy to provide alternative parts (especially if provided by you, the reader), but make no promises. If I dont like or disagree with a suggestion it may not make it into the dataset. Please don't be upset if this happens.
 
