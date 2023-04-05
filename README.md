@@ -21,6 +21,8 @@ If you intend to build this plane, this should probably be your starting point. 
 
 Please feel free to download any of the data here, and use it to build the plane, browse the parts in the STEP assembly, brew your own new parts, etc. The data is published under the cc-by-nc-sa license which you can read through in the link below. Essentially, it allows any use, _except_ for commercial use.
 
+Many thanks go to all who have contributed, but especially Albert, who made the initial dataset available. That dataset has been built and I'm sure improved by a number of people, some of who have helped with suggestions and changes during my rebuilding work. They're all important, and I'm grateful to all of them.
+
 ## Creative Commons Attribution-NonCommercial 4.0 International Public License (CC BY-NC 4.0)
 
 ### You are free to:
