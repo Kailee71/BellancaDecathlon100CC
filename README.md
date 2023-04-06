@@ -17,11 +17,19 @@ I have started a new thread on the same server to cover issues related to this d
 
 [Fräsdaten Bellanca Decathlon 100cc](https://www.rc-network.de/threads/fr%C3%A4sdaten-bellanca-super-decathlon.11947862/)
 
-If you intend to build this plane, this should probably be your starting point. Again, it is in German, but I will be more than happy to answer questions in english there also, as I'm sure most of the contributor in the thread will. I do ask that if you do intend to build a plane from this data, if possible also give feedback, either to me directly or better yet into the second thread listed. Let's keep this thing improving - for which I need feedback and suggestions to do stuff. I'm open to almost anything, I'll be happy to provide alternative parts (especially if provided by you, the reader), but make no promises. If I dont like or disagree with a suggestion it may not make it into the dataset. Please don't be upset if this happens.
+If you intend to build this plane, this should probably be your starting point. Again, it is in German, but I will be more than happy to answer questions in english there also, as I'm sure most of the contributors in the thread will. I do ask that if you do intend to build a plane from this data, if possible also give feedback, either to me directly or better yet into the second thread listed. Let's keep this thing improving - for which I need feedback and suggestions to do stuff. I'm open to almost anything, I'll be happy to provide alternative parts (especially if provided by you, the reader), but make no promises. If I dont like or disagree with a suggestion it may not make it into the dataset. Please don't be upset if this happens.
 
-Please feel free to download any of the data here, and use it to build the plane, browse the parts in the STEP assembly, brew your own new parts, etc. The data is published under the cc-by-nc-sa license which you can read through in the link below. Essentially, it allows any use, _except_ for commercial use.
+The data available here is in STEP for the 3D data, and DXF and PDF for the plots. The plots are grouped by material and thickness, and are much larger than most mills will be (some are several meters wide). However if you have a mill you are probably more than capable of splitting these plots into managable groups. I think you all understand that I can't do plots for each and every guy and gal who wants to build one of these - I would be busy exporting dxf's for the rest of my life.
 
-Many thanks go to all who have contributed, but especially Albert, who made the initial dataset available. That dataset has been built and I'm sure improved by a number of people, some of who have helped with suggestions and changes during my rebuilding work. They're all important, and I'm grateful to all of them.
+Please feel free to download any of the data here, and use it to build the plane, browse the parts in the STEP assembly, brew your own new parts, etc. The data is published under the cc-by-nc-sa license which you can read through in the link below. Essentially, it allows any use, _except_ for commercial use. Oh, regarding the STEP assembly. It is split up into the component parts, one file per part. There is however one assembly file that will pull all the other together. To my knowledge most modern CAD systems are capable of this nesting. If it is an issue then please let me know, I can do a one-file-to-conquer-them-all if needed.
+
+Many thanks go to all who have contributed so far, but especially Albert, who made the initial dataset available. That dataset has been built and improved upon by a number of people, some of who have helped with suggestions and changes during my rebuilding work. They're all important, and I'm grateful to all of the input I received over the duration of the project so far. Please - if you do intend to build one of these - I really urge you to give further feedback. The more people let me know of needed or suggested changes, the more the quality will improve. However, if I disagree with one or the othe suggestion please don't feel offended that I don't put the change in. You can always download the 3D data and do it yourself!
+
+I hope you all have some fun looking at the data, and maybe some of you milling some wood, and putting it all together.
+
+Cheerio,
+
+Kai.
 
 ## Creative Commons Attribution-NonCommercial 4.0 International Public License (CC BY-NC 4.0)
 
