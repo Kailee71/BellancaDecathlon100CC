@@ -2,7 +2,7 @@ ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION(('CATIA V5 STEP','CAx-IF Rec.Pracs.--- Model Styling and Organization---1.5--- 2016-08-15','CAx-IF Rec.Pracs.---Supplemental Geometry---1.0---2011-11-01','CAx-IF Rec.Pracs.--- Composite Materials ---3.4---2017-06-13','CAx-IF Rec.Pracs.---External References---2.1---2005-01-19','CAx-IF Rec.Pracs.---Tessellated 3D Geometry---1.0---2015-12-17'),'2;1');
 
-FILE_NAME('I:\\projects\\Planes\\Bellanca Super Decathlon 100ccm\\pub\\STEP\\F9_RC_Board_Birch_6mm.stp','2023-06-05T18:20:08+00:00',('none'),('none'),'CATIA Version 5-6 Release 2020 SP6','CATIA V5 STEP AP242 v2','none');
+FILE_NAME('I:\\projects\\Planes\\Bellanca Super Decathlon 100ccm\\pub\\STEP\\F9_RC_Board_Birch_6mm.stp','2023-06-05T22:03:24+00:00',('none'),('none'),'CATIA Version 5-6 Release 2020 SP6','CATIA V5 STEP AP242 v2','none');
 
 FILE_SCHEMA(('AP242_MANAGED_MODEL_BASED_3D_ENGINEERING_MIM_LF  {1 0 10303 442 1 1 4}'));
 
