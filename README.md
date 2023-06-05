@@ -1,4 +1,22 @@
 ## BellancaDecathlon100CC
+
+**** Update v1,2 ****
+I was alerted to some errors in the second below mentioned thread, and fixed them. Affected parts are
+- F1_Baseboard_Birch_6mm
+- F6_Stringer_A_Poplar_3mm
+- F7_Stringer_B_Poplar_3mm
+- F27_Stringer_E_Poplar_3mm (2x)
+- F31_Towhook_Plate_A_Poplar_3mm
+- F32_Towhook_Plate_B_Poplar_3mm
+- F46_Stringer_G_Poplar_6mm (2x)
+
+Affected plots are
+- Decathlon_100cc_v1.2_Birch_6mm.[dxf,pdf]
+- Decathlon_100cc_v1.2_Poplar_3mm_Fuselage.[dxf,pdf]
+
+Please re-download the relevant data and/or plots if necessary.
+**** End Update ****
+
 Data To Mill and Build a 3.26m Wingspan Bellanca Decathlon.
 
 ![Bellanca Decathlon 100cc Screenshot](doc/imgs/Screenshot_230405.png)
