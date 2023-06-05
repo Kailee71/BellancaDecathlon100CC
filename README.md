@@ -1,6 +1,6 @@
 ## BellancaDecathlon100CC
 
-**** Update v1,2 ****
+**** Update v1.2 ****
 
 I was alerted to some errors in the second below mentioned thread, and fixed them. Affected parts are
 - F1_Baseboard_Birch_6mm
@@ -18,7 +18,7 @@ Affected plots are
 Please re-download the relevant data and/or plots if necessary.
 
 
-**** End Update ****
+**** End Update v1.2 ****
 
 Data To Mill and Build a 3.26m Wingspan Bellanca Decathlon.
 
