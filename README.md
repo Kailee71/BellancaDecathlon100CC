@@ -1,5 +1,11 @@
 ## BellancaDecathlon100CC
 
+Data To Mill and Build a 3.26m Wingspan Bellanca Decathlon.
+
+![Bellanca Decathlon 100cc Screenshot](doc/imgs/Screenshot_230405.png)
+
+![Basic 3 View](doc/imgs/3-View_230405.png)
+
 **** Update v1.2 ****
 
 I was alerted to some errors in the second below mentioned thread, and fixed them. Affected parts are
@@ -17,14 +23,7 @@ Affected plots are
 
 Please re-download the relevant data and/or plots if necessary.
 
-
 **** End Update v1.2 ****
-
-Data To Mill and Build a 3.26m Wingspan Bellanca Decathlon.
-
-![Bellanca Decathlon 100cc Screenshot](doc/imgs/Screenshot_230405.png)
-
-![Basic 3 View](doc/imgs/3-View_230405.png)
 
 This project was started based on Albert's downloadable data for the Bellanca Decathlon 100cc, and then over time every single part was re-drawn, re-constructed, and re-assembled - and then tidied up and labelled. The historic base and initial development of this project can be read through here:
 
