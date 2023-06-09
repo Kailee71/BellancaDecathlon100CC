@@ -6,6 +6,22 @@ Data To Mill and Build a 3.26m Wingspan Bellanca Decathlon.
 
 ![Basic 3 View](doc/imgs/3-View_230405.png)
 
+**** Update v1.3 ****
+
+A couple more fixes on the wing and flap jigs;
+- WJ3_Wing_Jig_C_Poplar_6mm (x2)
+- FJ2_Flap_Jig_C_Poplar_6mm
+- FJ3_Flap_Jig_C_Poplar_3mm
+
+Affected plots are
+- Decathlon_100cc_v1.3_Poplar_6mm.[dxf,pdf]
+- Decathlon_100cc_v1.3_Poplar_3mm_Wing.[dxf,pdf]
+
+Please re-download the relevant data and/or plots if necessary.
+
+**** End Update v1.3 ****
+
+
 **** Update v1.2 ****
 
 I was alerted to some errors in the second below mentioned thread, and fixed them. Affected parts are
