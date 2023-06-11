@@ -2,7 +2,7 @@ ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION(('CATIA V5 STEP','CAx-IF Rec.Pracs.--- Model Styling and Organization---1.5--- 2016-08-15','CAx-IF Rec.Pracs.---Supplemental Geometry---1.0---2011-11-01','CAx-IF Rec.Pracs.--- Composite Materials ---3.4---2017-06-13','CAx-IF Rec.Pracs.---External References---2.1---2005-01-19','CAx-IF Rec.Pracs.---Tessellated 3D Geometry---1.0---2015-12-17'),'2;1');
 
-FILE_NAME('I:\\projects\\Planes\\Bellanca Super Decathlon 100ccm\\pub\\STEP\\EH1_Horizontal_Stab_Poplar_3mm.stp','2023-06-10T23:21:33+00:00',('none'),('none'),'CATIA Version 5-6 Release 2020 SP6','CATIA V5 STEP AP242 v2','none');
+FILE_NAME('I:\\projects\\Planes\\Bellanca Super Decathlon 100ccm\\pub\\STEP\\EH1_Horizontal_Stab_Poplar_3mm.stp','2023-06-11T10:53:40+00:00',('none'),('none'),'CATIA Version 5-6 Release 2020 SP6','CATIA V5 STEP AP242 v2','none');
 
 FILE_SCHEMA(('AP242_MANAGED_MODEL_BASED_3D_ENGINEERING_MIM_LF  {1 0 10303 442 1 1 4}'));
 
@@ -917,7 +917,7 @@ DATA;
 #1668=DIRECTION('Axis2P3D Direction',(0.,0.,1.)) ;
 #1675=DIRECTION('Vector Direction',(0.,0.,1.)) ;
 #1687=DIRECTION('Axis2P3D Direction',(-0.965732215364,0.259540532879,0.)) ;
-#1688=DIRECTION('Axis2P3D XDirection',(-0.259540532879,-0.965732215364,-0.)) ;
+#1688=DIRECTION('Axis2P3D XDirection',(-0.259540532879,-0.965732215364,0.)) ;
 #1692=DIRECTION('Vector Direction',(-0.259540532879,-0.965732215364,0.)) ;
 #1699=DIRECTION('Vector Direction',(-0.259540532879,-0.965732215364,0.)) ;
 #1706=DIRECTION('Vector Direction',(0.,0.,1.)) ;
@@ -999,7 +999,7 @@ DATA;
 #2206=DIRECTION('Axis2P3D Direction',(0.,0.,1.)) ;
 #2213=DIRECTION('Vector Direction',(0.,0.,1.)) ;
 #2225=DIRECTION('Axis2P3D Direction',(-0.919923264641,0.392098440666,0.)) ;
-#2226=DIRECTION('Axis2P3D XDirection',(-0.392098440666,-0.919923264641,-0.)) ;
+#2226=DIRECTION('Axis2P3D XDirection',(-0.392098440666,-0.919923264641,0.)) ;
 #2230=DIRECTION('Vector Direction',(-0.392098440666,-0.919923264641,0.)) ;
 #2237=DIRECTION('Vector Direction',(-0.392098440666,-0.919923264641,0.)) ;
 #2244=DIRECTION('Vector Direction',(0.,0.,1.)) ;
