@@ -6,6 +6,16 @@ Data To Mill and Build a 3.26m Wingspan Bellanca Decathlon.
 
 ![Basic 3 View](doc/imgs/3-View_230405.png)
 
+**** Update v1.6 ****
+
+Some more smaller corrections to the following parts:
+
+- W8_Rib_F_Poplar_3mm (was weirdly missing cutouts in the DXF/PDF that were pressent in the STEP)
+- W16_Rib_N_Poplar_3mm (was missing cutout for W22_Web_D...)
+- WJ4_Wing_Jig_D_Poplar_6mm (made cutouts for the ribs shallower so they sit on her as well as the stringer)
+
+**** Update v1.6 ****
+
 **** Update v1.5 ****
 
 New parts
@@ -25,7 +35,7 @@ and therefore updates to drawings
 
 Please re-download the relevant data and/or plots if necessary.
 
-**** End Update v1.4 ****
+**** End Update v1.5 ****
 
 
 
