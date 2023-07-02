@@ -14,7 +14,7 @@ Some more smaller corrections to the following parts:
 - W16_Rib_N_Poplar_3mm (was missing cutout for W22_Web_D...)
 - WJ4_Wing_Jig_D_Poplar_6mm (made cutouts for the ribs shallower so they sit on her as well as the stringer)
 
-**** Update v1.6 ****
+**** End Update v1.6 ****
 
 **** Update v1.5 ****
 
