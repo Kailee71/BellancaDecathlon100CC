@@ -13,7 +13,7 @@ Added cable ducting holes for 8mm straw tubing in the ribs for servo and lightin
 **** End Update v1.6 ****
 
 
-**** Update v1.6 ****
+**** Update v1.7 ****
 
 Some more smaller corrections to the following parts:
 
@@ -21,7 +21,7 @@ Some more smaller corrections to the following parts:
 - W16_Rib_N_Poplar_3mm (was missing cutout for W22_Web_D...)
 - WJ4_Wing_Jig_D_Poplar_6mm (made cutouts for the ribs shallower so they sit on her as well as the stringer)
 
-**** End Update v1.6 ****
+**** End Update v1.7 ****
 
 **** Update v1.5 ****
 
