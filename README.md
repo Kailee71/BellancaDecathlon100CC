@@ -8,6 +8,13 @@ Data To Mill and Build a 3.26m Wingspan Bellanca Decathlon.
 
 **** Update v1.6 ****
 
+Added cable ducting holes for 8mm straw tubing in the ribs for servo and lighting cables. All ribs are Updated.
+
+**** End Update v1.6 ****
+
+
+**** Update v1.6 ****
+
 Some more smaller corrections to the following parts:
 
 - W8_Rib_F_Poplar_3mm (was weirdly missing cutouts in the DXF/PDF that were pressent in the STEP)
