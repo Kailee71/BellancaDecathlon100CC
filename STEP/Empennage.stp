@@ -2,7 +2,7 @@ ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION(('CATIA V5 STEP','CAx-IF Rec.Pracs.--- Model Styling and Organization---1.5--- 2016-08-15','CAx-IF Rec.Pracs.---Supplemental Geometry---1.0---2011-11-01','CAx-IF Rec.Pracs.--- Composite Materials ---3.4---2017-06-13','CAx-IF Rec.Pracs.---External References---2.1---2005-01-19','CAx-IF Rec.Pracs.---Tessellated 3D Geometry---1.0---2015-12-17'),'2;1');
 
-FILE_NAME('I:\\projects\\Planes\\Bellanca Super Decathlon 100ccm\\pub\\STEP\\Empennage.stp','2023-07-17T22:37:31+00:00',('none'),('none'),'CATIA Version 5-6 Release 2020 SP6','CATIA V5 STEP AP242 v2','none');
+FILE_NAME('I:\\projects\\Planes\\Bellanca Super Decathlon 100ccm\\pub\\STEP\\Empennage.stp','2023-07-21T16:29:17+00:00',('none'),('none'),'CATIA Version 5-6 Release 2020 SP6','CATIA V5 STEP AP242 v2','none');
 
 FILE_SCHEMA(('AP242_MANAGED_MODEL_BASED_3D_ENGINEERING_MIM_LF  {1 0 10303 442 1 1 4}'));
 
@@ -101,7 +101,7 @@ DATA;
 #51=CARTESIAN_POINT('NONE',(0.,0.,0.)) ;
 #52=CARTESIAN_POINT('NONE',(0.,0.,0.)) ;
 #88=CARTESIAN_POINT('NONE',(0.,0.,0.)) ;
-#89=CARTESIAN_POINT('NONE',(1.4068746168E-12,1.5,-1.5678121846E-12)) ;
+#89=CARTESIAN_POINT('NONE',(2.27373675443E-13,1.5,2.27373675443E-12)) ;
 #125=CARTESIAN_POINT('NONE',(0.,0.,0.)) ;
 #126=CARTESIAN_POINT('NONE',(59.,9.,23.5)) ;
 #140=CARTESIAN_POINT('NONE',(0.,0.,0.)) ;
@@ -145,8 +145,8 @@ DATA;
 #56=DIRECTION('NONE',(0.,0.,1.)) ;
 #90=DIRECTION('NONE',(1.,0.,0.)) ;
 #91=DIRECTION('NONE',(0.,0.,1.)) ;
-#92=DIRECTION('NONE',(1.,1.56957780106E-14,6.494804694E-15)) ;
-#93=DIRECTION('NONE',(-6.494804694E-15,2.70616862252E-15,1.)) ;
+#92=DIRECTION('NONE',(1.,1.56412741811E-148,2.81768146295E-132)) ;
+#93=DIRECTION('NONE',(7.03781023998E-29,-1.,-8.98069742258E-16)) ;
 #127=DIRECTION('NONE',(1.,0.,0.)) ;
 #128=DIRECTION('NONE',(0.,0.,1.)) ;
 #129=DIRECTION('NONE',(1.,-8.04911692853E-16,-1.3281481178E-13)) ;
