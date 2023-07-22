@@ -8,7 +8,7 @@ Data To Mill and Build a 3.26m Wingspan Bellanca Decathlon.
 
 **** Update v1.8 ****
 
-Initial skinning on wing. More will follow, on flaps, ailerons and empennage.
+Skinning done on wing and empennage, plus added canopy.
 
 **** End Update v1.8 ****
 
